@@ -1,0 +1,162 @@
+2024-12-16 02:35:37 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 02:35:50 [INFO]: Opening date time range picker
+2024-12-16 02:35:50 [INFO]: Opening time range picker
+2024-12-16 02:35:50 [INFO]: Selecting date time range
+2024-12-16 02:35:50 [INFO]: Selecting time range picker
+2024-12-16 02:35:51 [INFO]: Verifying date time range picker
+2024-12-16 02:35:51 [INFO]: Verifying time range picker
+2024-12-16 02:35:53 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 02:43:22 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 02:43:26 [INFO]: Opening date time range picker
+2024-12-16 02:43:26 [INFO]: Opening time range picker
+2024-12-16 02:43:26 [INFO]: Selecting date time range
+2024-12-16 02:43:26 [INFO]: Selecting time range picker
+2024-12-16 02:43:27 [INFO]: Verifying date time range picker
+2024-12-16 02:43:27 [INFO]: Verifying time range picker
+2024-12-16 02:44:42 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 02:44:42 [INFO]: Opening date time range picker
+2024-12-16 02:44:42 [INFO]: Opening time range picker
+2024-12-16 02:44:42 [INFO]: Selecting date time range
+2024-12-16 02:44:42 [INFO]: Selecting time range picker
+2024-12-16 02:44:43 [INFO]: Verifying date time range picker
+2024-12-16 02:44:43 [INFO]: Verifying time range picker
+2024-12-16 02:44:43 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 02:50:46 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 02:50:46 [INFO]: Opening date time range picker
+2024-12-16 02:50:46 [INFO]: Opening time range picker
+2024-12-16 02:50:46 [INFO]: Selecting date time range
+2024-12-16 02:50:46 [INFO]: Selecting time range picker
+2024-12-16 02:50:46 [INFO]: Verifying date time range picker
+2024-12-16 02:50:46 [INFO]: Verifying time range picker
+2024-12-16 02:50:46 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 02:50:48 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 02:50:48 [INFO]: Opening time filter combobox
+2024-12-16 02:50:48 [INFO]: Opening time filter combobox
+2024-12-16 02:50:48 [INFO]: Verifying options on time filter field
+2024-12-16 02:50:48 [INFO]: Verifying time filter combobox options
+2024-12-16 02:50:48 [INFO]: Getting all options from time filter combobox
+2024-12-16 02:50:48 [INFO]: Options retrieved: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 02:50:48 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 02:50:48 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 02:50:48 [INFO]: Selecting time filter option: 5 min
+2024-12-16 02:50:48 [INFO]: Verifying selected option: 5 min
+2024-12-16 02:50:48 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 02:50:48 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-16 16:35:20 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 16:35:20 [INFO]: Opening time filter combobox
+2024-12-16 16:35:20 [INFO]: Opening time filter combobox
+2024-12-16 16:35:20 [INFO]: Verifying options on time filter field
+2024-12-16 16:35:20 [INFO]: Verifying time filter combobox options
+2024-12-16 16:35:20 [INFO]: Retrieving all text content from elements
+2024-12-16 16:35:20 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 16:35:20 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 16:35:20 [INFO]: Selecting time filter option: 5 min
+2024-12-16 16:35:20 [INFO]: Select passed option into element
+2024-12-16 16:35:20 [INFO]: Verifying selected option: 5 min
+2024-12-16 16:35:20 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 16:35:27 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 16:35:27 [INFO]: Opening date time range picker
+2024-12-16 16:35:27 [INFO]: Opening time range picker
+2024-12-16 16:35:27 [INFO]: Selecting date time range
+2024-12-16 16:35:27 [INFO]: Selecting time range picker
+2024-12-16 16:35:28 [INFO]: Verifying date time range picker
+2024-12-16 16:35:28 [INFO]: Verifying time range picker
+2024-12-16 16:35:28 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 16:40:44 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 16:40:44 [INFO]: Opening time filter combobox
+2024-12-16 16:40:44 [INFO]: Opening time filter combobox
+2024-12-16 16:40:46 [INFO]: Verifying options on time filter field
+2024-12-16 16:40:46 [INFO]: Verifying time filter combobox options
+2024-12-16 16:40:46 [INFO]: Retrieving all text content from elements
+2024-12-16 16:40:49 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 16:40:49 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 16:40:49 [INFO]: Selecting time filter option: 5 min
+2024-12-16 16:40:49 [INFO]: Select passed option into element
+2024-12-16 16:40:49 [INFO]: Verifying selected option: 5 min
+2024-12-16 16:40:49 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 16:43:22 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 16:43:22 [INFO]: Opening time filter combobox
+2024-12-16 16:43:22 [INFO]: Opening time filter combobox
+2024-12-16 16:43:23 [INFO]: Verifying options on time filter field
+2024-12-16 16:43:23 [INFO]: Verifying time filter combobox options
+2024-12-16 16:43:23 [INFO]: Retrieving all text content from elements
+2024-12-16 16:43:23 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 16:43:23 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 16:43:23 [INFO]: Selecting time filter option: 5 min
+2024-12-16 16:43:23 [INFO]: Select passed option into element
+2024-12-16 16:43:23 [INFO]: Verifying selected option: 5 min
+2024-12-16 16:43:23 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 16:44:11 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 16:44:11 [INFO]: Opening time filter combobox
+2024-12-16 16:44:11 [INFO]: Opening time filter combobox
+2024-12-16 16:44:17 [INFO]: Verifying options on time filter field
+2024-12-16 16:44:17 [INFO]: Verifying time filter combobox options
+2024-12-16 16:44:17 [INFO]: Retrieving all text content from elements
+2024-12-16 16:44:30 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 16:44:30 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 16:44:30 [INFO]: Selecting time filter option: 5 min
+2024-12-16 16:44:30 [INFO]: Select passed option into element
+2024-12-16 16:44:30 [INFO]: Verifying selected option: 5 min
+2024-12-16 16:44:30 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 16:48:40 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 16:48:40 [INFO]: Opening time filter combobox
+2024-12-16 16:48:40 [INFO]: Opening time filter combobox
+2024-12-16 16:48:42 [INFO]: Verifying options on time filter field
+2024-12-16 16:48:42 [INFO]: Verifying time filter combobox options
+2024-12-16 16:48:42 [INFO]: Retrieving all text content from elements
+2024-12-16 16:48:46 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 16:48:46 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 16:48:46 [INFO]: Selecting time filter option: 5 min
+2024-12-16 16:48:48 [INFO]: Verifying selected option: 5 min
+2024-12-16 16:48:48 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 16:48:50 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-16 16:49:05 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 16:49:05 [INFO]: Opening date time range picker
+2024-12-16 16:49:05 [INFO]: Opening time range picker
+2024-12-16 16:49:05 [INFO]: Selecting date time range
+2024-12-16 16:49:05 [INFO]: Selecting time range picker
+2024-12-16 16:49:05 [INFO]: Verifying date time range picker
+2024-12-16 16:49:05 [INFO]: Verifying time range picker
+2024-12-16 16:49:05 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 16:50:03 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 16:50:03 [INFO]: Opening time filter combobox
+2024-12-16 16:50:03 [INFO]: Opening time filter combobox
+2024-12-16 16:50:03 [INFO]: Verifying options on time filter field
+2024-12-16 16:50:03 [INFO]: Verifying time filter combobox options
+2024-12-16 16:50:03 [INFO]: Retrieving all text content from elements
+2024-12-16 16:50:03 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 16:50:03 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 16:50:03 [INFO]: Selecting time filter option: 5 min
+2024-12-16 16:50:04 [INFO]: Verifying selected option: 5 min
+2024-12-16 16:50:04 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 16:50:04 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-16 16:50:16 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 16:50:16 [INFO]: Opening date time range picker
+2024-12-16 16:50:16 [INFO]: Opening time range picker
+2024-12-16 16:50:16 [INFO]: Selecting date time range
+2024-12-16 16:50:16 [INFO]: Selecting time range picker
+2024-12-16 16:50:16 [INFO]: Verifying date time range picker
+2024-12-16 16:50:16 [INFO]: Verifying time range picker
+2024-12-16 16:50:16 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 16:50:56 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 16:50:56 [INFO]: Opening time filter combobox
+2024-12-16 16:50:56 [INFO]: Opening time filter combobox
+2024-12-16 16:50:56 [INFO]: Verifying options on time filter field
+2024-12-16 16:50:56 [INFO]: Verifying time filter combobox options
+2024-12-16 16:50:56 [INFO]: Retrieving all text content from elements
+2024-12-16 16:50:56 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 16:50:56 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 16:50:56 [INFO]: Selecting time filter option: 5 min
+2024-12-16 16:50:57 [INFO]: Verifying selected option: 5 min
+2024-12-16 16:50:57 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 16:50:57 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-16 16:51:02 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 16:51:02 [INFO]: Opening date time range picker
+2024-12-16 16:51:02 [INFO]: Opening time range picker
+2024-12-16 16:51:02 [INFO]: Selecting date time range
+2024-12-16 16:51:02 [INFO]: Selecting time range picker
+2024-12-16 16:51:02 [INFO]: Verifying date time range picker
+2024-12-16 16:51:02 [INFO]: Verifying time range picker
+2024-12-16 16:51:02 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 17:37:47 [INFO]: Navigating to Login Page
+2024-12-16 17:38:13 [INFO]: Navigating to Login Page

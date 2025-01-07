@@ -1,0 +1,44 @@
+name: Plnpx playwright 
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Bước 1: Clone code 
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # Bước 2: Set up Node.js
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      # Bước 3: Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Bước 4: Install Playwright Browsers
+      - name: Install Playwright Browsers
+        run: npx playwright install --with-deps
+
+      # Bước 5: Run Playwright Tests
+      - name: Run Playwright Tests
+        run: npx playwright test
+
+      # Bước 6: Upload Playwright HTML Report
+      - name: Upload Playwright HTML Report
+        uses: actions/upload-artifact@v3
+        if: always() 
+        with:
+          name: playwright-html-report
+          path: playwright-report/

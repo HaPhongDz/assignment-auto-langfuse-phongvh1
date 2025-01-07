@@ -1,0 +1,89 @@
+name: Scheduled Playwright Tests
+
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    # Schedule the workflow to run at 10 PM UTC every day
+    - cron: '0 22 * * *'
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Checkout code
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    # Setup Node.js
+    - name: Setup Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: lts/* # Adjust if necessary
+
+    # Install dependencies
+    - name: Install dependencies
+      run: npm ci # Clean and Install dependencies 
+
+    - name: Install Playwright Browsers
+      run: npx playwright install --with-deps
+
+    - name: Run Playwright tests and capture results
+      id: run-tests
+      run: |
+        npm run test > playwright-output.txt
+    
+        # Extract the number of scenarios passed and failed using updated regex patterns
+        SCENARIOS_PASSED=$(grep -oP '^\d+(?= passed)' playwright-output.txt || echo 0)
+        SCENARIOS_FAILED=$(grep -oP '^\d+(?= failed)' playwright-output.txt || echo 0)
+    
+        # Default to 0 if no results are found
+        SCENARIOS_PASSED=${SCENARIOS_PASSED:-0}
+        SCENARIOS_FAILED=${SCENARIOS_FAILED:-0}
+    
+        # Print the results for debugging
+        echo "Scenarios Passed: $SCENARIOS_PASSED"
+        echo "Scenarios Failed: $SCENARIOS_FAILED"
+    
+        # Save the results to GitHub environment variables for later steps
+        echo "SCENARIOS_PASSED=$SCENARIOS_PASSED" >> $GITHUB_ENV
+        echo "SCENARIOS_FAILED=$SCENARIOS_FAILED" >> $GITHUB_ENV
+      continue-on-error: true
+
+    # Upload Test Report Artifact
+    - name: Upload Test Report Artifact
+      id: artifact-upload-step
+      uses: actions/upload-artifact@v4
+      with:
+        name: test-report
+        path: reports/ # Adjust to your report folder
+
+    # Set ARTIFACT_URL variable
+    - name: Set ARTIFACT_URL variable
+      run: echo "ARTIFACT_URL=${{ steps.artifact-upload-step.outputs.artifact-url }}" >> $GITHUB_ENV
+
+    - name: Output artifact URL
+      run: echo "Artifact URL is ${{ steps.artifact-upload-step.outputs.artifact-url }}"
+        
+    - name: Extract Branch Name
+      id: extract-branch
+      run: echo "BRANCH_NAME=${GITHUB_REF##*/}" >> $GITHUB_ENV
+
+    # Send Notification to Teams
+    - name: Send Notification to Teams
+    env:
+            TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+            SCENARIOS_PASSED: ${{ env.SCENARIOS_PASSED }}
+            SCENARIOS_FAILED: ${{ env.SCENARIOS_FAILED }}
+            ARTIFACT_URL: ${{ env.ARTIFACT_URL }}
+            BRANCH_NAME: ${{ env.BRANCH_NAME }}    
+        run: |
+            curl -H "Content-Type: application/json" -d "{
+            \"title\": \"Playwright Test Results TDD\",
+            \"text\": \"Scheduled tests have completed:\n
+            Branch: **$BRANCH_NAME**\n
+            Passed: **$SCENARIOS_PASSED**\n
+            Failed: **$SCENARIOS_FAILED**\n
+            [Download Artifact]($ARTIFACT_URL)\n
+            [View Workflow Run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})\"
+            }" $TEAMS_WEBHOOK_URL

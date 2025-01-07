@@ -1,0 +1,1450 @@
+2024-12-16 17:42:17 [INFO]: Navigating to Login Page
+2024-12-16 17:56:21 [INFO]: Navigating to Login Page
+2024-12-16 17:56:32 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 17:56:32 [INFO]: Opening time filter combobox
+2024-12-16 17:56:32 [INFO]: Opening time filter combobox
+2024-12-16 17:56:33 [INFO]: Verifying options on time filter field
+2024-12-16 17:56:33 [INFO]: Verifying time filter combobox options
+2024-12-16 17:56:33 [INFO]: Retrieving all text content from elements
+2024-12-16 17:56:33 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 17:56:33 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 17:56:33 [INFO]: Selecting time filter option: 5 min
+2024-12-16 17:56:33 [INFO]: Verifying selected option: 5 min
+2024-12-16 17:56:33 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 17:56:33 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-16 17:56:54 [INFO]: Navigating to Login Page
+2024-12-16 17:56:58 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 17:56:58 [INFO]: Opening time filter combobox
+2024-12-16 17:56:58 [INFO]: Opening time filter combobox
+2024-12-16 17:56:58 [INFO]: Verifying options on time filter field
+2024-12-16 17:56:58 [INFO]: Verifying time filter combobox options
+2024-12-16 17:56:58 [INFO]: Retrieving all text content from elements
+2024-12-16 17:56:58 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 17:56:58 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 17:56:58 [INFO]: Selecting time filter option: 5 min
+2024-12-16 17:56:59 [INFO]: Verifying selected option: 5 min
+2024-12-16 17:56:59 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 17:56:59 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-16 17:56:59 [INFO]: Navigating to Login Page
+2024-12-16 17:57:03 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 17:57:03 [INFO]: Opening date time range picker
+2024-12-16 17:57:03 [INFO]: Opening time range picker
+2024-12-16 17:57:03 [INFO]: Selecting date time range
+2024-12-16 17:57:03 [INFO]: Selecting time range picker
+2024-12-16 17:57:04 [INFO]: Verifying date time range picker
+2024-12-16 17:57:04 [INFO]: Verifying time range picker
+2024-12-16 17:57:04 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 17:58:36 [INFO]: Navigating to Login Page
+2024-12-16 17:58:41 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-16 17:58:41 [INFO]: Opening time filter combobox
+2024-12-16 17:58:41 [INFO]: Opening time filter combobox
+2024-12-16 17:58:41 [INFO]: Verifying options on time filter field
+2024-12-16 17:58:41 [INFO]: Verifying time filter combobox options
+2024-12-16 17:58:41 [INFO]: Retrieving all text content from elements
+2024-12-16 17:58:41 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-16 17:58:41 [INFO]: Selecting value in time filter: 5 min
+2024-12-16 17:58:41 [INFO]: Selecting time filter option: 5 min
+2024-12-16 17:58:42 [INFO]: Verifying selected option: 5 min
+2024-12-16 17:58:42 [INFO]: Verifying selected time filter option: 5 min
+2024-12-16 17:58:42 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-16 17:58:42 [INFO]: Navigating to Login Page
+2024-12-16 17:58:47 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-16 17:58:47 [INFO]: Opening date time range picker
+2024-12-16 17:58:47 [INFO]: Opening time range picker
+2024-12-16 17:58:47 [INFO]: Selecting date time range
+2024-12-16 17:58:47 [INFO]: Selecting time range picker
+2024-12-16 17:58:48 [INFO]: Verifying date time range picker
+2024-12-16 17:58:48 [INFO]: Verifying time range picker
+2024-12-16 17:58:48 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-16 18:53:45 [INFO]: Navigating to Login Page
+2024-12-16 18:53:49 [INFO]: Verify request chart works correctly
+2024-12-16 18:53:49 [INFO]: Opening time request chart
+2024-12-16 18:58:01 [INFO]: Navigating to Login Page
+2024-12-16 18:58:06 [INFO]: Verify request chart works correctly
+2024-12-16 18:58:06 [INFO]: Opening time request chart
+2024-12-16 18:59:01 [INFO]: Navigating to Login Page
+2024-12-16 18:59:06 [INFO]: Verify request chart works correctly
+2024-12-16 18:59:06 [INFO]: Opening time request chart
+2024-12-16 18:59:06 [INFO]: Verify request chart open correctly
+2024-12-16 18:59:06 [INFO]: Fill feedback data
+2024-12-16 18:59:07 [INFO]: Submit feed back
+2024-12-16 19:00:49 [INFO]: Navigating to Login Page
+2024-12-16 19:00:54 [INFO]: Starting test: Verify request chart works correctly
+2024-12-16 19:00:54 [INFO]: Step 1: Clicking on request chart button
+2024-12-16 19:00:54 [INFO]: Opening time request chart
+2024-12-16 19:00:54 [INFO]: Step 2: Verifying request chart dialog is displayed
+2024-12-16 19:00:54 [INFO]: Verify request chart open correctly
+2024-12-16 19:00:54 [INFO]: Step 3: Filling feedback in request chart feedback
+2024-12-16 19:00:54 [INFO]: Fill feedback data
+2024-12-16 19:00:55 [INFO]: Step 4: Submitting feedback
+2024-12-16 19:00:55 [INFO]: Submit feed back
+2024-12-16 19:00:55 [INFO]: Test completed: Verify request chart works correctly
+2024-12-26 21:54:40 [INFO]: Navigating to Login Page
+2024-12-26 21:54:40 [INFO]: Navigating to Login Page
+2024-12-26 21:54:53 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 21:54:53 [INFO]: Opening time filter combobox
+2024-12-26 21:54:53 [INFO]: Opening time filter combobox
+2024-12-26 21:54:54 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-26 21:54:54 [INFO]: Navigating to Dashboard Page
+2024-12-26 21:54:55 [INFO]: Opening date time range picker
+2024-12-26 21:54:55 [INFO]: Opening time range picker
+2024-12-26 21:54:56 [INFO]: Selecting date time range
+2024-12-26 21:54:56 [INFO]: Selecting time range picker
+2024-12-26 21:54:58 [INFO]: Verifying date time range picker
+2024-12-26 21:54:58 [INFO]: Verifying time range picker
+2024-12-26 21:54:58 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-26 21:57:12 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 21:57:12 [INFO]: Opening time filter combobox
+2024-12-26 21:57:12 [INFO]: Opening time filter combobox
+2024-12-26 21:59:02 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 21:59:02 [INFO]: Navigating to Dashboard Page
+2024-12-26 21:59:06 [INFO]: Opening time filter combobox
+2024-12-26 21:59:06 [INFO]: Opening time filter combobox
+2024-12-26 21:59:25 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 21:59:25 [INFO]: Navigating to Dashboard Page
+2024-12-26 21:59:28 [INFO]: Opening time filter combobox
+2024-12-26 21:59:28 [INFO]: Opening time filter combobox
+2024-12-26 21:59:53 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 21:59:53 [INFO]: Navigating to Dashboard Page
+2024-12-26 21:59:56 [INFO]: Opening time filter combobox
+2024-12-26 21:59:56 [INFO]: Opening time filter combobox
+2024-12-26 22:00:41 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 22:00:41 [INFO]: Navigating to Dashboard Page
+2024-12-26 22:00:45 [INFO]: Opening time filter combobox
+2024-12-26 22:00:45 [INFO]: Opening time filter combobox
+2024-12-26 22:01:08 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 22:01:10 [INFO]: Navigating to Dashboard Page
+2024-12-26 22:01:17 [INFO]: Opening time filter combobox
+2024-12-26 22:01:17 [INFO]: Opening time filter combobox
+2024-12-26 22:16:58 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-26 22:17:05 [INFO]: Navigating to Dashboard Page
+2024-12-26 22:17:10 [INFO]: Opening time filter combobox
+2024-12-26 22:17:11 [INFO]: Opening time filter combobox
+2024-12-26 22:17:12 [INFO]: Verifying options on time filter field
+2024-12-26 22:17:13 [INFO]: Verifying time filter combobox options
+2024-12-26 22:17:13 [INFO]: Retrieving all text content from elements
+2024-12-26 22:17:13 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-26 22:17:13 [INFO]: Selecting value in time filter: 5 min
+2024-12-26 22:17:14 [INFO]: Selecting time filter option: 5 min
+2024-12-26 22:17:15 [INFO]: Verifying selected option: 5 min
+2024-12-26 22:17:15 [INFO]: Verifying selected time filter option: 5 min
+2024-12-26 22:17:16 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-27 07:21:55 [INFO]: Navigating to Login Page
+2024-12-27 07:21:55 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-27 07:21:55 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:22:06 [INFO]: Opening time filter combobox
+2024-12-27 07:22:06 [INFO]: Opening time filter combobox
+2024-12-27 07:22:07 [INFO]: Verifying options on time filter field
+2024-12-27 07:22:07 [INFO]: Verifying time filter combobox options
+2024-12-27 07:22:07 [INFO]: Retrieving all text content from elements
+2024-12-27 07:22:07 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-27 07:22:07 [INFO]: Selecting value in time filter: 5 min
+2024-12-27 07:22:07 [INFO]: Selecting time filter option: 5 min
+2024-12-27 07:22:07 [INFO]: Verifying selected option: 5 min
+2024-12-27 07:22:07 [INFO]: Verifying selected time filter option: 5 min
+2024-12-27 07:22:07 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-27 07:22:08 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-27 07:22:08 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:22:11 [INFO]: Opening date time range picker
+2024-12-27 07:22:11 [INFO]: Opening time range picker
+2024-12-27 07:22:12 [INFO]: Selecting date time range
+2024-12-27 07:22:12 [INFO]: Selecting time range picker
+2024-12-27 07:22:13 [INFO]: Verifying date time range picker
+2024-12-27 07:22:13 [INFO]: Verifying time range picker
+2024-12-27 07:22:13 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-27 07:24:55 [INFO]: Navigating to Login Page
+2024-12-27 07:24:55 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-27 07:24:55 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:24:57 [INFO]: Opening time filter combobox
+2024-12-27 07:24:57 [INFO]: Opening time filter combobox
+2024-12-27 07:24:58 [INFO]: Verifying options on time filter field
+2024-12-27 07:24:58 [INFO]: Verifying time filter combobox options
+2024-12-27 07:24:58 [INFO]: Retrieving all text content from elements
+2024-12-27 07:24:58 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-27 07:24:58 [INFO]: Selecting value in time filter: 5 min
+2024-12-27 07:24:58 [INFO]: Selecting time filter option: 5 min
+2024-12-27 07:24:59 [INFO]: Verifying selected option: 5 min
+2024-12-27 07:24:59 [INFO]: Verifying selected time filter option: 5 min
+2024-12-27 07:24:59 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-27 07:25:00 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-27 07:25:00 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:25:03 [INFO]: Opening date time range picker
+2024-12-27 07:25:03 [INFO]: Opening time range picker
+2024-12-27 07:25:04 [INFO]: Selecting date time range
+2024-12-27 07:25:04 [INFO]: Selecting time range picker
+2024-12-27 07:25:04 [INFO]: Verifying date time range picker
+2024-12-27 07:25:04 [INFO]: Verifying time range picker
+2024-12-27 07:25:05 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-27 07:26:26 [INFO]: Navigating to Login Page
+2024-12-27 07:26:27 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-27 07:26:27 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:26:29 [INFO]: Opening time filter combobox
+2024-12-27 07:26:29 [INFO]: Opening time filter combobox
+2024-12-27 07:26:30 [INFO]: Verifying options on time filter field
+2024-12-27 07:26:30 [INFO]: Verifying time filter combobox options
+2024-12-27 07:26:30 [INFO]: Retrieving all text content from elements
+2024-12-27 07:26:30 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-27 07:26:30 [INFO]: Selecting value in time filter: 5 min
+2024-12-27 07:26:30 [INFO]: Selecting time filter option: 5 min
+2024-12-27 07:26:31 [INFO]: Verifying selected option: 5 min
+2024-12-27 07:26:31 [INFO]: Verifying selected time filter option: 5 min
+2024-12-27 07:26:31 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-27 07:26:31 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-27 07:26:31 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:26:33 [INFO]: Opening date time range picker
+2024-12-27 07:26:33 [INFO]: Opening time range picker
+2024-12-27 07:26:34 [INFO]: Selecting date time range
+2024-12-27 07:26:34 [INFO]: Selecting time range picker
+2024-12-27 07:26:35 [INFO]: Verifying date time range picker
+2024-12-27 07:26:35 [INFO]: Verifying time range picker
+2024-12-27 07:26:35 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-27 07:29:11 [INFO]: Navigating to Login Page
+2024-12-27 07:29:11 [INFO]: Starting test: Verify Time Filter combobox working correctly
+2024-12-27 07:29:11 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:29:14 [INFO]: Opening time filter combobox
+2024-12-27 07:29:14 [INFO]: Opening time filter combobox
+2024-12-27 07:29:15 [INFO]: Verifying options on time filter field
+2024-12-27 07:29:15 [INFO]: Verifying time filter combobox options
+2024-12-27 07:29:15 [INFO]: Retrieving all text content from elements
+2024-12-27 07:29:15 [INFO]: Actual Options: 5 min,30 min,1 hour,3 hours,24 hours,7 days,1 month,3 months,1 year
+2024-12-27 07:29:15 [INFO]: Selecting value in time filter: 5 min
+2024-12-27 07:29:15 [INFO]: Selecting time filter option: 5 min
+2024-12-27 07:29:16 [INFO]: Verifying selected option: 5 min
+2024-12-27 07:29:16 [INFO]: Verifying selected time filter option: 5 min
+2024-12-27 07:29:16 [INFO]: Test completed: Verify Time Filter combobox working correctly
+2024-12-27 07:29:16 [INFO]: Starting test: Verify Date Time range filter field working correctly
+2024-12-27 07:29:16 [INFO]: Navigating to Dashboard Page
+2024-12-27 07:29:19 [INFO]: Opening date time range picker
+2024-12-27 07:29:19 [INFO]: Opening time range picker
+2024-12-27 07:29:20 [INFO]: Selecting date time range
+2024-12-27 07:29:20 [INFO]: Selecting time range picker
+2024-12-27 07:29:21 [INFO]: Verifying date time range picker
+2024-12-27 07:29:21 [INFO]: Verifying time range picker
+2024-12-27 07:29:21 [INFO]: Test completed: Verify Date Time range filter field working correctly
+2024-12-28 17:50:45 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-28 17:50:45 [INFO]: Navigating to Dashboard Page
+2024-12-28 17:50:57 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-28 17:50:58 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-28 17:51:41 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-28 17:51:48 [INFO]: Navigating to Dashboard Page
+2024-12-28 17:52:55 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-28 17:53:52 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-28 17:53:52 [INFO]: Navigating to Dashboard Page
+2024-12-28 17:54:07 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-28 17:54:29 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-28 21:53:15 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 21:53:17 [INFO]: Navigating to Dashboard Page
+2024-12-28 21:53:26 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 21:53:33 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 21:56:25 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 21:56:25 [INFO]: Navigating to Dashboard Page
+2024-12-28 21:56:28 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 21:56:29 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 22:15:03 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 22:15:03 [INFO]: Navigating to Dashboard Page
+2024-12-28 22:15:07 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 22:15:16 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 22:17:55 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 22:17:55 [INFO]: Navigating to Dashboard Page
+2024-12-28 22:18:01 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 22:18:04 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 22:20:58 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 22:20:58 [INFO]: Navigating to Dashboard Page
+2024-12-28 22:21:01 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 22:21:08 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 22:46:39 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 22:46:40 [INFO]: Navigating to Dashboard Page
+2024-12-28 22:46:43 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 22:46:58 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 22:50:36 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 22:50:36 [INFO]: Navigating to Dashboard Page
+2024-12-28 22:50:40 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 22:50:40 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 22:55:39 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 22:55:39 [INFO]: Navigating to Dashboard Page
+2024-12-28 22:55:42 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 22:55:43 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 22:58:08 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 22:58:08 [INFO]: Navigating to Dashboard Page
+2024-12-28 22:58:11 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 22:58:12 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:02:01 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:02:01 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:02:05 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:02:06 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:03:51 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:03:51 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:03:53 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:03:55 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:08:34 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:08:34 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:08:37 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:08:38 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:10:16 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:10:16 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:10:27 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:10:27 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:11:56 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:11:56 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:11:58 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:12:00 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:13:24 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:13:24 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:13:28 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:13:29 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:13:37 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:25:17 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:25:17 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:25:20 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:25:21 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:27:56 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:27:56 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:28:00 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:28:01 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:44:03 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:44:03 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:44:07 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:44:07 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:44:39 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:44:39 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:44:42 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:44:43 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:50:20 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:50:20 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:50:31 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:50:31 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:51:39 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:51:39 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:51:42 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:51:43 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:53:21 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:53:21 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:53:25 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:53:25 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:53:47 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:53:47 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:53:51 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:53:52 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:56:06 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:56:06 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:56:09 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:56:10 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-28 23:57:16 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-28 23:57:16 [INFO]: Navigating to Dashboard Page
+2024-12-28 23:57:19 [INFO]: Opening DateTime Range Picker dialog
+2024-12-28 23:57:20 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:03:38 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:03:38 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:03:42 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:03:43 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:05:48 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:05:48 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:05:51 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:05:52 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:06:43 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:06:43 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:06:46 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:06:47 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:08:08 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:08:08 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:08:11 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:08:12 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:09:47 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:09:47 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:09:50 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:09:51 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:10:07 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:10:07 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:10:11 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:10:11 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:12:21 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:12:21 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:12:24 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:12:24 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:13:57 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:13:57 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:14:01 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:14:01 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:16:09 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:16:09 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:16:13 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:16:14 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:16:36 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:25:40 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:25:40 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:25:51 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:25:52 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:25:52 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:27:35 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:27:35 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:27:38 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:27:39 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:27:39 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:28:37 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:28:37 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:28:40 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:28:41 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:28:42 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:30:27 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:30:27 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:30:31 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:30:31 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:30:52 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:34:31 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:34:31 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:34:35 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:34:35 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:34:35 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:35:17 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:35:17 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:35:20 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:35:21 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:37:27 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:38:21 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:38:21 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:38:24 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:38:25 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:38:55 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:42:28 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:42:28 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:42:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:42:32 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:44:30 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:44:30 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:44:41 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:44:41 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:44:42 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:50:31 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:50:31 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:50:35 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:50:35 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:55:04 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:55:04 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:55:07 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:55:08 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:55:18 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:58:17 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 00:58:17 [INFO]: Navigating to Dashboard Page
+2024-12-29 00:58:29 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 00:58:29 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 00:58:30 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:05:49 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:05:49 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:05:53 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:05:53 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:06:03 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:09:21 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:09:21 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:09:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:09:33 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:10:04 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:10:04 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:10:07 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:10:08 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:12:05 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:12:05 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:12:08 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:12:09 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:12:09 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:18:21 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:18:21 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:18:24 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:18:25 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:26:29 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:26:29 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:26:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:26:33 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:26:33 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:26:54 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:26:54 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:26:57 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:26:58 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:26:58 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:27:25 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-29 01:27:25 [INFO]: Navigating to Dashboard Page
+2024-12-29 01:27:29 [INFO]: Opening DateTime Range Picker dialog
+2024-12-29 01:27:29 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-29 01:27:30 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 06:42:16 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 06:42:19 [INFO]: Navigating to Dashboard Page
+2024-12-30 06:42:28 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 06:43:33 [INFO]: Verifying time range picker
+2024-12-30 06:53:13 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 06:53:13 [INFO]: Navigating to Dashboard Page
+2024-12-30 06:53:18 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 06:53:33 [INFO]: Verifying time range picker
+2024-12-30 06:55:52 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 06:55:52 [INFO]: Navigating to Dashboard Page
+2024-12-30 06:55:57 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 06:57:45 [INFO]: Verifying time range picker
+2024-12-30 07:00:23 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 07:00:23 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:00:28 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:00:29 [INFO]: Verifying time range picker
+2024-12-30 07:01:21 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 07:01:46 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 07:01:46 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:01:57 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:01:58 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 07:01:58 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 07:05:59 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 07:05:59 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:06:03 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:06:05 [INFO]: Verifying time range picker
+2024-12-30 07:06:46 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 07:06:46 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:06:48 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:06:50 [INFO]: Verifying time range picker
+2024-12-30 07:07:55 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 07:07:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:07:58 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:09:01 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 07:09:01 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:09:04 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:09:23 [INFO]: Verifying time range picker
+2024-12-30 07:15:56 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 07:15:56 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:15:59 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:16:08 [INFO]: Verifying time range picker
+2024-12-30 07:16:41 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 07:33:33 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 07:33:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:33:44 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:36:53 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 07:36:53 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:36:55 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:49:59 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 07:50:01 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:50:04 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:53:45 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 07:53:47 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:53:51 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 07:55:58 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 07:56:01 [INFO]: Navigating to Dashboard Page
+2024-12-30 07:56:08 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 08:01:34 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 08:01:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:01:45 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 08:02:54 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 08:02:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:03:00 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 08:06:23 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 08:06:23 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:06:27 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 08:08:04 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 08:08:04 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:08:07 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 08:08:19 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 08:32:05 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 08:32:05 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:32:17 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 08:40:07 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 08:40:07 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:40:10 [INFO]: Opening time filter dropdown
+2024-12-30 08:40:11 [INFO]: Getting time filter dropdown options
+2024-12-30 08:40:11 [INFO]: Retrieving all text content from elements
+2024-12-30 08:41:02 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 08:41:02 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:41:06 [INFO]: Opening time filter dropdown
+2024-12-30 08:41:06 [INFO]: Getting time filter dropdown options
+2024-12-30 08:41:06 [INFO]: Retrieving all text content from elements
+2024-12-30 08:41:22 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 08:48:45 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 08:48:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:48:49 [INFO]: Opening time filter dropdown
+2024-12-30 08:49:13 [INFO]: Select time filter dropdown options
+2024-12-30 08:50:13 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 08:50:13 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:50:16 [INFO]: Opening time filter dropdown
+2024-12-30 08:50:20 [INFO]: Select time filter dropdown options
+2024-12-30 08:50:41 [INFO]: Getting time filter value
+2024-12-30 08:56:00 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 08:56:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:56:04 [INFO]: Opening time filter dropdown
+2024-12-30 08:56:04 [INFO]: Select time filter dropdown options
+2024-12-30 08:56:28 [INFO]: Getting DateTime Range Picker value
+2024-12-30 08:57:43 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 08:57:43 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:57:54 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 08:57:54 [INFO]: Getting DateTime Range Picker value
+2024-12-30 08:58:20 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 08:58:20 [INFO]: Navigating to Dashboard Page
+2024-12-30 08:59:06 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 08:59:07 [INFO]: Getting DateTime Range Picker value
+2024-12-30 09:08:37 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 09:08:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 09:08:47 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 09:08:47 [INFO]: Getting DateTime Range Picker value
+2024-12-30 09:08:48 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 09:16:49 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 09:16:49 [INFO]: Navigating to Dashboard Page
+2024-12-30 09:16:52 [INFO]: Opening time filter dropdown
+2024-12-30 09:16:53 [INFO]: Select time filter dropdown options
+2024-12-30 09:17:08 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 09:17:09 [INFO]: Getting DateTime Range Picker value
+2024-12-30 09:17:16 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:09:59 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:10:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:00 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:10:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:00 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:10:00 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:10:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:00 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:10:00 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:10:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:12 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:10:13 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:10:13 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:10:13 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:10:13 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:10:13 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:10:13 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:10:14 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:10:14 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:14 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 20:10:14 [INFO]: Verifying time range picker
+2024-12-30 20:10:14 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:10:14 [INFO]: Verifying time range picker
+2024-12-30 20:10:14 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:10:14 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:10:14 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:10:14 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:15 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 20:10:15 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:15 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:10:15 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:16 [INFO]: Getting time filter value
+2024-12-30 20:10:16 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:10:17 [INFO]: Opening time filter dropdown
+2024-12-30 20:10:17 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:10:17 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:18 [INFO]: Verifying filter builder icon
+2024-12-30 20:10:18 [INFO]: CLick filter builder icon
+2024-12-30 20:10:18 [INFO]: Getting time filter dropdown options
+2024-12-30 20:10:18 [INFO]: Retrieving all text content from elements
+2024-12-30 20:10:18 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:10:18 [INFO]: Opening time filter dropdown
+2024-12-30 20:10:18 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:10:18 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:18 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:10:18 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:19 [INFO]: Select time filter dropdown options
+2024-12-30 20:10:19 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:10:19 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 20:10:19 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:10:19 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:10:19 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:10:19 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:10:19 [INFO]: CLick filter builder icon
+2024-12-30 20:10:20 [INFO]: CLick filter builder icon
+2024-12-30 20:10:20 [INFO]: CLick filter builder icon
+2024-12-30 20:10:20 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:10:20 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:10:20 [INFO]: Click to open type filter dropdown
+2024-12-30 20:10:20 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:10:20 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:10:21 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:10:21 [INFO]: CLick operator filter builder icon
+2024-12-30 20:10:21 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:10:21 [INFO]: Retrieving all text content from elements
+2024-12-30 20:10:21 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:10:21 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:10:21 [INFO]: CLick filter builder icon
+2024-12-30 20:10:21 [INFO]: CLick filter builder icon
+2024-12-30 20:10:21 [INFO]: Selecting time filter option: Tags
+2024-12-30 20:10:21 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 20:10:21 [INFO]: CLick filter builder icon
+2024-12-30 20:10:21 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:10:21 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:10:21 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:10:21 [INFO]: Clicking add filter button
+2024-12-30 20:10:21 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:10:21 [INFO]: CLick operator filter builder icon
+2024-12-30 20:10:22 [INFO]: Get all filter builder line
+2024-12-30 20:10:22 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:10:22 [INFO]: Retrieving all text content from elements
+2024-12-30 20:10:22 [INFO]: Get label of filter builder by line number
+2024-12-30 20:10:22 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:10:22 [INFO]: CLick filter builder icon
+2024-12-30 20:10:22 [INFO]: Getting coulm filter dropdown options
+2024-12-30 20:10:22 [INFO]: Retrieving all text content from elements
+2024-12-30 20:10:22 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:10:22 [INFO]: Click to open value filter dropdown
+2024-12-30 20:10:22 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:10:22 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 20:10:22 [INFO]: Get label of filter builder by line number
+2024-12-30 20:10:22 [INFO]: Get label of filter builder by line number
+2024-12-30 20:10:22 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 20:10:22 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:10:22 [INFO]: Retrieving all text content from elements
+2024-12-30 20:10:22 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:14:24 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:14:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:24 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:14:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:24 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:14:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:24 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:14:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:24 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:14:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:24 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:14:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:14:32 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:14:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:14:32 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:14:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:14:32 [INFO]: Getting time filter value
+2024-12-30 20:14:32 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:14:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:14:32 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:14:32 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 20:14:33 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:14:33 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:33 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:14:33 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:33 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:14:33 [INFO]: Verifying time range picker
+2024-12-30 20:14:33 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:14:33 [INFO]: Verifying time range picker
+2024-12-30 20:14:33 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:14:33 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 20:14:33 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:33 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:14:33 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:33 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:14:33 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:36 [INFO]: Opening time filter dropdown
+2024-12-30 20:14:36 [INFO]: Verifying filter builder icon
+2024-12-30 20:14:36 [INFO]: Opening time filter dropdown
+2024-12-30 20:14:36 [INFO]: CLick filter builder icon
+2024-12-30 20:14:36 [INFO]: CLick filter builder icon
+2024-12-30 20:14:37 [INFO]: CLick filter builder icon
+2024-12-30 20:14:37 [INFO]: Select time filter dropdown options
+2024-12-30 20:14:37 [INFO]: Getting time filter dropdown options
+2024-12-30 20:14:37 [INFO]: Retrieving all text content from elements
+2024-12-30 20:14:37 [INFO]: Test completed: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 20:14:37 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:14:37 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:14:37 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:14:37 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:14:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:37 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:14:37 [INFO]: Getting coulm filter dropdown options
+2024-12-30 20:14:37 [INFO]: Retrieving all text content from elements
+2024-12-30 20:14:37 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:14:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:38 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 20:14:38 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:14:38 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:14:38 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:14:41 [INFO]: CLick filter builder icon
+2024-12-30 20:14:41 [INFO]: CLick filter builder icon
+2024-12-30 20:14:41 [INFO]: CLick filter builder icon
+2024-12-30 20:14:41 [INFO]: Click to open type filter dropdown
+2024-12-30 20:14:41 [INFO]: CLick filter builder icon
+2024-12-30 20:14:41 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:14:41 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:14:42 [INFO]: Clicking add filter button
+2024-12-30 20:14:42 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:14:42 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:14:42 [INFO]: Get all filter builder line
+2024-12-30 20:14:42 [INFO]: Get label of filter builder by line number
+2024-12-30 20:14:42 [INFO]: Get label of filter builder by line number
+2024-12-30 20:14:42 [INFO]: Get label of filter builder by line number
+2024-12-30 20:14:42 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 20:14:42 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:14:42 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:14:42 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:14:43 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:14:43 [INFO]: CLick operator filter builder icon
+2024-12-30 20:14:43 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:14:43 [INFO]: Retrieving all text content from elements
+2024-12-30 20:14:43 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:14:43 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:14:43 [INFO]: CLick filter builder icon
+2024-12-30 20:14:43 [INFO]: Selecting time filter option: Tags
+2024-12-30 20:14:43 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 20:14:43 [INFO]: Click to open value filter dropdown
+2024-12-30 20:14:43 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:14:43 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 20:14:43 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:14:43 [INFO]: CLick operator filter builder icon
+2024-12-30 20:14:44 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:14:44 [INFO]: Retrieving all text content from elements
+2024-12-30 20:14:44 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:14:44 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:14:44 [INFO]: Retrieving all text content from elements
+2024-12-30 20:14:44 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:23:19 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:23:19 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:23:23 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:23:29 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:26:24 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:26:24 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:26:24 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:26:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:24 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:26:24 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:26:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:24 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:26:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:35 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:26:35 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:26:35 [INFO]: Getting time filter value
+2024-12-30 20:26:35 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:26:36 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:26:36 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:26:36 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:36 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 20:26:36 [INFO]: Verifying time range picker
+2024-12-30 20:26:36 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:26:36 [INFO]: Verifying time range picker
+2024-12-30 20:26:36 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:26:36 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:26:36 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:26:36 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:26:36 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:26:37 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:26:37 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:26:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:37 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:26:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:37 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 20:26:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:37 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:26:37 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:26:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:39 [INFO]: Verifying filter builder icon
+2024-12-30 20:26:39 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:26:39 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:40 [INFO]: Test completed: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 20:26:40 [INFO]: Opening time filter dropdown
+2024-12-30 20:26:40 [INFO]: Opening time filter dropdown
+2024-12-30 20:26:40 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:26:40 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:41 [INFO]: Select time filter dropdown options
+2024-12-30 20:26:41 [INFO]: CLick filter builder icon
+2024-12-30 20:26:41 [INFO]: Getting time filter dropdown options
+2024-12-30 20:26:41 [INFO]: Retrieving all text content from elements
+2024-12-30 20:26:41 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:26:41 [INFO]: CLick filter builder icon
+2024-12-30 20:26:41 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:26:41 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:26:41 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:26:41 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 20:26:41 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:26:42 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:26:42 [INFO]: CLick filter builder icon
+2024-12-30 20:26:42 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:26:42 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:26:42 [INFO]: CLick filter builder icon
+2024-12-30 20:26:42 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:26:42 [INFO]: CLick operator filter builder icon
+2024-12-30 20:26:42 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:26:42 [INFO]: Retrieving all text content from elements
+2024-12-30 20:26:42 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:26:42 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:26:43 [INFO]: CLick filter builder icon
+2024-12-30 20:26:43 [INFO]: CLick filter builder icon
+2024-12-30 20:26:43 [INFO]: Selecting time filter option: Tags
+2024-12-30 20:26:43 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 20:26:43 [INFO]: Getting coulm filter dropdown options
+2024-12-30 20:26:43 [INFO]: Retrieving all text content from elements
+2024-12-30 20:26:43 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:26:43 [INFO]: CLick operator filter builder icon
+2024-12-30 20:26:43 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:26:43 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:26:43 [INFO]: Retrieving all text content from elements
+2024-12-30 20:26:43 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:26:43 [INFO]: CLick filter builder icon
+2024-12-30 20:26:43 [INFO]: CLick filter builder icon
+2024-12-30 20:26:43 [INFO]: Click to open type filter dropdown
+2024-12-30 20:26:43 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:26:43 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:26:44 [INFO]: Clicking add filter button
+2024-12-30 20:26:44 [INFO]: Get all filter builder line
+2024-12-30 20:26:44 [INFO]: Get label of filter builder by line number
+2024-12-30 20:26:44 [INFO]: Get label of filter builder by line number
+2024-12-30 20:26:44 [INFO]: Get label of filter builder by line number
+2024-12-30 20:26:44 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 20:26:44 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:26:44 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:26:44 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:26:45 [INFO]: Click to open value filter dropdown
+2024-12-30 20:26:45 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:26:45 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 20:26:46 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:26:46 [INFO]: Retrieving all text content from elements
+2024-12-30 20:26:46 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:29:32 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:29:32 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:29:36 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:29:37 [INFO]: Verifying time range picker
+2024-12-30 20:29:37 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:30:12 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:30:12 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:30:16 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:30:17 [INFO]: Verifying time range picker
+2024-12-30 20:30:17 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:31:02 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:31:07 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:10 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:31:22 [INFO]: Verifying time range picker
+2024-12-30 20:31:27 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:31:37 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:31:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:37 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:31:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:37 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:31:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:37 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:31:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:37 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:31:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:37 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:31:37 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:40 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:31:40 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:31:40 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:31:40 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:31:41 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:31:41 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:31:41 [INFO]: Getting time filter value
+2024-12-30 20:31:41 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 20:31:41 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 20:31:41 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 20:31:42 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:31:42 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:42 [INFO]: Verifying time range picker
+2024-12-30 20:31:42 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 20:31:42 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 20:31:42 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:31:42 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:42 [INFO]: Verifying time range picker
+2024-12-30 20:31:43 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:31:43 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:43 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 20:31:43 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:43 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 20:31:43 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:31:43 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:31:43 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:46 [INFO]: CLick filter builder icon
+2024-12-30 20:31:46 [INFO]: Verifying filter builder icon
+2024-12-30 20:31:46 [INFO]: Opening time filter dropdown
+2024-12-30 20:31:46 [INFO]: CLick filter builder icon
+2024-12-30 20:31:46 [INFO]: Opening time filter dropdown
+2024-12-30 20:31:47 [INFO]: Getting time filter dropdown options
+2024-12-30 20:31:47 [INFO]: Retrieving all text content from elements
+2024-12-30 20:31:47 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 20:31:47 [INFO]: Select time filter dropdown options
+2024-12-30 20:31:47 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:31:47 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:47 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 20:31:47 [INFO]: Test completed: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 20:31:47 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:31:47 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:47 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 20:31:47 [INFO]: Getting DateTime Range Picker value
+2024-12-30 20:31:47 [INFO]: CLick filter builder icon
+2024-12-30 20:31:47 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 20:31:47 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 20:31:47 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:31:47 [INFO]: Getting coulm filter dropdown options
+2024-12-30 20:31:47 [INFO]: Retrieving all text content from elements
+2024-12-30 20:31:47 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 20:31:50 [INFO]: CLick filter builder icon
+2024-12-30 20:31:50 [INFO]: CLick filter builder icon
+2024-12-30 20:31:51 [INFO]: CLick filter builder icon
+2024-12-30 20:31:51 [INFO]: Click to open type filter dropdown
+2024-12-30 20:31:51 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:31:51 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:31:51 [INFO]: CLick filter builder icon
+2024-12-30 20:31:52 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 20:31:52 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 20:31:52 [INFO]: Clicking add filter button
+2024-12-30 20:31:52 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:31:52 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:31:52 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:31:52 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:31:52 [INFO]: CLick operator filter builder icon
+2024-12-30 20:31:53 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:31:53 [INFO]: Retrieving all text content from elements
+2024-12-30 20:31:53 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:31:53 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 20:31:53 [INFO]: Click to open value filter dropdown
+2024-12-30 20:31:53 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 20:31:53 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 20:31:53 [INFO]: CLick filter builder icon
+2024-12-30 20:31:53 [INFO]: Selecting time filter option: Tags
+2024-12-30 20:31:53 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 20:31:53 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:31:53 [INFO]: Retrieving all text content from elements
+2024-12-30 20:31:53 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 20:31:53 [INFO]: Click to open operator filter dropdown
+2024-12-30 20:31:53 [INFO]: CLick operator filter builder icon
+2024-12-30 20:31:54 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 20:31:54 [INFO]: Retrieving all text content from elements
+2024-12-30 20:31:54 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 20:32:16 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:32:16 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:32:19 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:33:04 [INFO]: Verifying time range picker
+2024-12-30 20:33:04 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:33:39 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:33:39 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:33:42 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:49:39 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:49:39 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:49:51 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:51:27 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:51:27 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:51:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:54:12 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:54:12 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:54:17 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:55:45 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:55:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:55:49 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:56:39 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:56:39 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:56:44 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 20:59:20 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 20:59:20 [INFO]: Navigating to Dashboard Page
+2024-12-30 20:59:27 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:01:28 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:01:28 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:01:28 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:28 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:28 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 21:01:28 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:28 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:01:28 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:28 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:01:28 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:28 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:01:28 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:01:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:01:32 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:01:33 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:01:33 [INFO]: Verifying time range picker
+2024-12-30 21:01:33 [INFO]: Getting time filter value
+2024-12-30 21:01:33 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:01:33 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 21:01:33 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:01:33 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:01:34 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:01:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:34 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:01:34 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 21:01:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:34 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:01:34 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:01:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:34 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:01:34 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:01:34 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:01:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:34 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:01:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:34 [INFO]: Verifying time range picker
+2024-12-30 21:01:34 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:01:34 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:01:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:37 [INFO]: Opening time filter dropdown
+2024-12-30 21:01:38 [INFO]: Select time filter dropdown options
+2024-12-30 21:01:38 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:01:38 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:01:38 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:01:38 [INFO]: Verifying filter builder icon
+2024-12-30 21:01:39 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:01:39 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:39 [INFO]: Test completed: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:01:39 [INFO]: CLick filter builder icon
+2024-12-30 21:01:39 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 21:01:39 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:01:39 [INFO]: CLick filter builder icon
+2024-12-30 21:01:39 [INFO]: CLick filter builder icon
+2024-12-30 21:01:40 [INFO]: Opening time filter dropdown
+2024-12-30 21:01:40 [INFO]: CLick filter builder icon
+2024-12-30 21:01:40 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:01:40 [INFO]: CLick filter builder icon
+2024-12-30 21:01:40 [INFO]: Getting coulm filter dropdown options
+2024-12-30 21:01:40 [INFO]: Retrieving all text content from elements
+2024-12-30 21:01:40 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:01:40 [INFO]: Getting time filter dropdown options
+2024-12-30 21:01:40 [INFO]: Retrieving all text content from elements
+2024-12-30 21:01:40 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:01:40 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:01:40 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:01:41 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:01:41 [INFO]: CLick operator filter builder icon
+2024-12-30 21:01:41 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:01:41 [INFO]: Retrieving all text content from elements
+2024-12-30 21:01:41 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:01:41 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:01:41 [INFO]: CLick filter builder icon
+2024-12-30 21:01:41 [INFO]: Selecting time filter option: Tags
+2024-12-30 21:01:41 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 21:01:42 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:01:42 [INFO]: CLick operator filter builder icon
+2024-12-30 21:01:42 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:01:42 [INFO]: Retrieving all text content from elements
+2024-12-30 21:01:42 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:01:42 [INFO]: CLick filter builder icon
+2024-12-30 21:01:43 [INFO]: CLick filter builder icon
+2024-12-30 21:01:43 [INFO]: Clicking add filter button
+2024-12-30 21:01:43 [INFO]: Click to open type filter dropdown
+2024-12-30 21:01:43 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:01:43 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:01:44 [INFO]: Get all filter builder line
+2024-12-30 21:01:44 [INFO]: Get label of filter builder by line number
+2024-12-30 21:01:44 [INFO]: Get label of filter builder by line number
+2024-12-30 21:01:44 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:01:44 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:01:44 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:01:44 [INFO]: Click to open value filter dropdown
+2024-12-30 21:01:44 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:01:44 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 21:01:45 [INFO]: Get label of filter builder by line number
+2024-12-30 21:01:45 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 21:01:46 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:01:46 [INFO]: Retrieving all text content from elements
+2024-12-30 21:01:46 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:02:21 [INFO]: Navigating to Login Page
+2024-12-30 21:02:45 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:02:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:45 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:02:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:45 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:02:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:45 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:02:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:45 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 21:02:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:45 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:02:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:49 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:02:49 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:02:49 [INFO]: Getting time filter value
+2024-12-30 21:02:49 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 21:02:50 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:02:50 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:02:50 [INFO]: Verifying time range picker
+2024-12-30 21:02:50 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:02:50 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:02:50 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:02:50 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:50 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:02:50 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:02:51 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 21:02:51 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:02:51 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:51 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:02:51 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:51 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:02:51 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:51 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:02:51 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:02:51 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:53 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:02:54 [INFO]: Verifying time range picker
+2024-12-30 21:02:55 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:02:55 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:02:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:57 [INFO]: Opening time filter dropdown
+2024-12-30 21:02:57 [INFO]: Opening time filter dropdown
+2024-12-30 21:02:57 [INFO]: Getting time filter dropdown options
+2024-12-30 21:02:57 [INFO]: Retrieving all text content from elements
+2024-12-30 21:02:57 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:02:57 [INFO]: Select time filter dropdown options
+2024-12-30 21:02:58 [INFO]: CLick filter builder icon
+2024-12-30 21:02:59 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:02:59 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:02:59 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:02:59 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:02:59 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:02:59 [INFO]: Verifying filter builder icon
+2024-12-30 21:02:59 [INFO]: Test completed: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:03:00 [INFO]: CLick filter builder icon
+2024-12-30 21:03:00 [INFO]: Navigating to Login Page
+2024-12-30 21:03:00 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 21:03:00 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:03:00 [INFO]: CLick filter builder icon
+2024-12-30 21:03:00 [INFO]: Getting coulm filter dropdown options
+2024-12-30 21:03:00 [INFO]: Retrieving all text content from elements
+2024-12-30 21:03:00 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:03:00 [INFO]: CLick filter builder icon
+2024-12-30 21:03:01 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:03:01 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:03:01 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:03:01 [INFO]: CLick operator filter builder icon
+2024-12-30 21:03:01 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:03:01 [INFO]: Retrieving all text content from elements
+2024-12-30 21:03:01 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:03:01 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:03:02 [INFO]: CLick filter builder icon
+2024-12-30 21:03:02 [INFO]: Selecting time filter option: Tags
+2024-12-30 21:03:02 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 21:03:02 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:03:02 [INFO]: CLick operator filter builder icon
+2024-12-30 21:03:02 [INFO]: CLick filter builder icon
+2024-12-30 21:03:03 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:03:03 [INFO]: Retrieving all text content from elements
+2024-12-30 21:03:03 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:03:03 [INFO]: Click to open type filter dropdown
+2024-12-30 21:03:03 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:03:03 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:03:04 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:03:04 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:03:04 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:03:05 [INFO]: CLick filter builder icon
+2024-12-30 21:03:05 [INFO]: Clicking add filter button
+2024-12-30 21:03:05 [INFO]: Click to open value filter dropdown
+2024-12-30 21:03:05 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:03:05 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 21:03:06 [INFO]: Get all filter builder line
+2024-12-30 21:03:06 [INFO]: Get label of filter builder by line number
+2024-12-30 21:03:06 [INFO]: Get label of filter builder by line number
+2024-12-30 21:03:06 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:03:06 [INFO]: Retrieving all text content from elements
+2024-12-30 21:03:06 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:03:06 [INFO]: Get label of filter builder by line number
+2024-12-30 21:03:06 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 21:03:25 [INFO]: CLick filter builder icon
+2024-12-30 21:03:40 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:03:40 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:03:45 [INFO]: CLick filter builder icon
+2024-12-30 21:03:46 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:04:41 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:04:46 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:04:51 [INFO]: CLick filter builder icon
+2024-12-30 21:04:53 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:05:21 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:05:21 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:05:27 [INFO]: CLick filter builder icon
+2024-12-30 21:07:43 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:08:15 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:08:15 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:08:25 [INFO]: CLick filter builder icon
+2024-12-30 21:09:44 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:09:44 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:09:55 [INFO]: CLick filter builder icon
+2024-12-30 21:09:56 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:10:22 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:10:22 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:10:33 [INFO]: CLick filter builder icon
+2024-12-30 21:10:39 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:10:55 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 21:10:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:10:55 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:10:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:10:55 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:10:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:10:55 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:10:55 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:10:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:10:55 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:10:56 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:10:56 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:00 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:11:01 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:11:01 [INFO]: Verifying time range picker
+2024-12-30 21:11:01 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:11:01 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:11:01 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:11:01 [INFO]: Getting time filter value
+2024-12-30 21:11:01 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:11:01 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:11:01 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 21:11:02 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:11:02 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:02 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:11:02 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:02 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:11:02 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:11:02 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:11:02 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:03 [INFO]: Verifying time range picker
+2024-12-30 21:11:03 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:11:03 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:11:03 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:04 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:11:04 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:04 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:11:04 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:05 [INFO]: Opening time filter dropdown
+2024-12-30 21:11:05 [INFO]: CLick filter builder icon
+2024-12-30 21:11:06 [INFO]: Opening time filter dropdown
+2024-12-30 21:11:06 [INFO]: Select time filter dropdown options
+2024-12-30 21:11:06 [INFO]: Getting time filter dropdown options
+2024-12-30 21:11:06 [INFO]: Retrieving all text content from elements
+2024-12-30 21:11:06 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:11:06 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:11:06 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:11:06 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:11:06 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:11:06 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:11:06 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:07 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 21:11:07 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:11:07 [INFO]: Verifying filter builder icon
+2024-12-30 21:11:09 [INFO]: Test completed: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:11:09 [INFO]: CLick filter builder icon
+2024-12-30 21:11:09 [INFO]: CLick filter builder icon
+2024-12-30 21:11:09 [INFO]: CLick filter builder icon
+2024-12-30 21:11:09 [INFO]: CLick filter builder icon
+2024-12-30 21:11:09 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:11:09 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:11:10 [INFO]: Getting coulm filter dropdown options
+2024-12-30 21:11:10 [INFO]: Retrieving all text content from elements
+2024-12-30 21:11:10 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:11:10 [INFO]: CLick operator filter builder icon
+2024-12-30 21:11:10 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:11:10 [INFO]: Retrieving all text content from elements
+2024-12-30 21:11:10 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:11:10 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:11:10 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:11:10 [INFO]: CLick filter builder icon
+2024-12-30 21:11:10 [INFO]: Selecting time filter option: Tags
+2024-12-30 21:11:10 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 21:11:11 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:11:11 [INFO]: CLick operator filter builder icon
+2024-12-30 21:11:11 [INFO]: CLick filter builder icon
+2024-12-30 21:11:11 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:11:11 [INFO]: Retrieving all text content from elements
+2024-12-30 21:11:11 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:11:11 [INFO]: CLick filter builder icon
+2024-12-30 21:11:11 [INFO]: Clicking add filter button
+2024-12-30 21:11:12 [INFO]: Click to open type filter dropdown
+2024-12-30 21:11:12 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:11:12 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:11:12 [INFO]: Get all filter builder line
+2024-12-30 21:11:12 [INFO]: Get label of filter builder by line number
+2024-12-30 21:11:12 [INFO]: Get label of filter builder by line number
+2024-12-30 21:11:12 [INFO]: Get label of filter builder by line number
+2024-12-30 21:11:12 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 21:11:13 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:11:13 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:11:13 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:11:13 [INFO]: Click to open value filter dropdown
+2024-12-30 21:11:13 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:11:13 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 21:11:14 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:11:14 [INFO]: Retrieving all text content from elements
+2024-12-30 21:11:14 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:12:36 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:12:36 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:12:45 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:12:45 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:12:45 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:13:33 [INFO]: Navigating to Login Page
+2024-12-30 21:13:34 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:13:34 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:13:37 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:13:37 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:13:37 [INFO]: Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2024-12-30 21:13:38 [INFO]: Starting test: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 21:13:38 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:13:44 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:13:45 [INFO]: Verifying DateTime Range Picker dialog headers and pickers
+2024-12-30 21:13:45 [INFO]: Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers
+2024-12-30 21:13:46 [INFO]: Starting test: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:13:46 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:13:49 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:13:50 [INFO]: Verifying time range picker
+2024-12-30 21:13:50 [INFO]: Test completed: TC_DTRP_003 - Verify the behavior when "Today" is selected
+2024-12-30 21:13:50 [INFO]: Starting test: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:13:50 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:13:55 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:13:56 [INFO]: Verifying time range picker
+2024-12-30 21:13:56 [INFO]: Test completed: TC_DTRP_004 - Verify the behavior when "Yesterday" is selected
+2024-12-30 21:13:58 [INFO]: Starting test: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:13:58 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:01 [INFO]: Opening DateTime Range Picker dialog
+2024-12-30 21:14:03 [INFO]: Test completed: TC_DTRP_005 - Verify the behavior when selecting a future date with custom times
+2024-12-30 21:14:03 [INFO]: Starting test: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:14:03 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:08 [INFO]: Getting time filter value
+2024-12-30 21:14:09 [INFO]: Test completed: TC_DTRP_007 - Verify the default value of the field on the dashboard
+2024-12-30 21:14:09 [INFO]: Starting test: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:14:09 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:12 [INFO]: Opening time filter dropdown
+2024-12-30 21:14:13 [INFO]: Getting time filter dropdown options
+2024-12-30 21:14:13 [INFO]: Retrieving all text content from elements
+2024-12-30 21:14:13 [INFO]: Test completed: TC_DTRP_008 - Verify the available options in the dropdown when the field is clicked
+2024-12-30 21:14:14 [INFO]: Starting test: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:14:14 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:16 [INFO]: Opening time filter dropdown
+2024-12-30 21:14:17 [INFO]: Select time filter dropdown options
+2024-12-30 21:14:17 [INFO]: Verifying default DateTime Range Picker label and values
+2024-12-30 21:14:17 [INFO]: Getting DateTime Range Picker value
+2024-12-30 21:14:17 [INFO]: Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected
+2024-12-30 21:14:18 [INFO]: Starting test: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:14:18 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:23 [INFO]: Verifying filter builder icon
+2024-12-30 21:14:24 [INFO]: Test completed: TC_Filter_001 - Verify the display of the filter icon on the dashboard
+2024-12-30 21:14:24 [INFO]: Starting test: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:14:24 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:29 [INFO]: CLick filter builder icon
+2024-12-30 21:14:30 [INFO]: Test completed: TC_Filter_002 - Verify the display of the filter dialog when the filter icon is clicked
+2024-12-30 21:14:30 [INFO]: Starting test: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:14:30 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:34 [INFO]: CLick filter builder icon
+2024-12-30 21:14:34 [INFO]: CLick filter builder icon
+2024-12-30 21:14:34 [INFO]: Getting coulm filter dropdown options
+2024-12-30 21:14:34 [INFO]: Retrieving all text content from elements
+2024-12-30 21:14:34 [INFO]: Test completed: TC_Filter_003 - Verify the options in the dropdown for Column selection
+2024-12-30 21:14:35 [INFO]: Starting test: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:14:35 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:42 [INFO]: CLick filter builder icon
+2024-12-30 21:14:42 [INFO]: CLick filter builder icon
+2024-12-30 21:14:43 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:14:43 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:14:43 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:14:43 [INFO]: CLick operator filter builder icon
+2024-12-30 21:14:44 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:14:44 [INFO]: Retrieving all text content from elements
+2024-12-30 21:14:44 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:14:44 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:14:44 [INFO]: CLick filter builder icon
+2024-12-30 21:14:44 [INFO]: Selecting time filter option: Tags
+2024-12-30 21:14:44 [INFO]: Selecting option from dropdown, option: Tags
+2024-12-30 21:14:45 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:14:45 [INFO]: CLick operator filter builder icon
+2024-12-30 21:14:45 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:14:45 [INFO]: Retrieving all text content from elements
+2024-12-30 21:14:45 [INFO]: Test completed: TC_Filter_004 - Verify the operator dropdown options based on column selection
+2024-12-30 21:14:45 [INFO]: Starting test: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:14:45 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:48 [INFO]: CLick filter builder icon
+2024-12-30 21:14:49 [INFO]: Click to open type filter dropdown
+2024-12-30 21:14:49 [INFO]: Selecting time filter option: Trace Name
+2024-12-30 21:14:49 [INFO]: Selecting option from dropdown, option: Trace Name
+2024-12-30 21:14:50 [INFO]: Click to open operator filter dropdown
+2024-12-30 21:14:50 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:14:50 [INFO]: Selecting option from dropdown, option: any of
+2024-12-30 21:14:51 [INFO]: Click to open value filter dropdown
+2024-12-30 21:14:51 [INFO]: Selecting filter buider, operator filter option
+2024-12-30 21:14:51 [INFO]: Selecting option from dropdown, option: qa
+2024-12-30 21:14:52 [INFO]: Getting value form operator filter dropdown options
+2024-12-30 21:14:52 [INFO]: Retrieving all text content from elements
+2024-12-30 21:14:52 [INFO]: Test completed: TC_Filter_005 - Verify that the selected value in Column 4 is displayed correctly
+2024-12-30 21:14:52 [INFO]: Starting test: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2024-12-30 21:14:52 [INFO]: Navigating to Dashboard Page
+2024-12-30 21:14:57 [INFO]: CLick filter builder icon
+2024-12-30 21:14:57 [INFO]: Clicking add filter button
+2024-12-30 21:14:57 [INFO]: Get all filter builder line
+2024-12-30 21:14:57 [INFO]: Get label of filter builder by line number
+2024-12-30 21:14:57 [INFO]: Get label of filter builder by line number
+2024-12-30 21:14:58 [INFO]: Get label of filter builder by line number
+2024-12-30 21:14:58 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
