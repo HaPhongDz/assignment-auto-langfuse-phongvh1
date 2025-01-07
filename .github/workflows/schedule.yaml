@@ -80,9 +80,9 @@ jobs:
         curl -H "Content-Type: application/json" -d "{
         \"@type\": \"MessageCard\",
         \"@context\": \"http://schema.org/extensions\",
-        \"summary\": \"Playwright Test Results TDD\",
+        \"summary\": \"🎉 Playwright Test Results\",
         \"themeColor\": \"0076D7\",
-        \"title\": \"Playwright Test Results TDD\",
+        \"title\": \"🎉 Playwright Test Results\",
         \"sections\": [{
             \"activityTitle\": \"Branch: **$BRANCH_NAME**\",
             \"facts\": [
