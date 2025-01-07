@@ -34,8 +34,8 @@ jobs:
         npm run test > playwright-output.txt
     
         # Extract the number of scenarios passed and failed using updated regex patterns
-        SCENARIOS_PASSED=$(grep -oP '^\d+(?= passed)' playwright-output.txt || echo 0)
-        SCENARIOS_FAILED=$(grep -oP '^\d+(?= failed)' playwright-output.txt || echo 0)
+        SCENARIOS_PASSED=$(grep -oP '(?<=\s)\d+(?=\s+passed)' playwright-output.txt || echo 0)
+        SCENARIOS_FAILED=$(grep -oP '(?<=\s)\d+(?=\s+failed)' playwright-output.txt || echo 0)
     
         # Default to 0 if no results are found
         SCENARIOS_PASSED=${SCENARIOS_PASSED:-0}
@@ -56,7 +56,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: test-report
-        path: reports/ # Adjust to your report folder
+        path: playwright-report/  # Adjust to your report folder
 
     # Set ARTIFACT_URL variable
     - name: Set ARTIFACT_URL variable
@@ -64,26 +64,40 @@ jobs:
 
     - name: Output artifact URL
       run: echo "Artifact URL is ${{ steps.artifact-upload-step.outputs.artifact-url }}"
-        
+
     - name: Extract Branch Name
       id: extract-branch
       run: echo "BRANCH_NAME=${GITHUB_REF##*/}" >> $GITHUB_ENV
 
-    # Send Notification to Teams
     - name: Send Notification to Teams
-    env:
-            TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
-            SCENARIOS_PASSED: ${{ env.SCENARIOS_PASSED }}
-            SCENARIOS_FAILED: ${{ env.SCENARIOS_FAILED }}
-            ARTIFACT_URL: ${{ env.ARTIFACT_URL }}
-            BRANCH_NAME: ${{ env.BRANCH_NAME }}    
-        run: |
-            curl -H "Content-Type: application/json" -d "{
-            \"title\": \"Playwright Test Results TDD\",
-            \"text\": \"Scheduled tests have completed:\n
-            Branch: **$BRANCH_NAME**\n
-            Passed: **$SCENARIOS_PASSED**\n
-            Failed: **$SCENARIOS_FAILED**\n
-            [Download Artifact]($ARTIFACT_URL)\n
-            [View Workflow Run](${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }})\"
-            }" $TEAMS_WEBHOOK_URL
+      env:
+        TEAMS_WEBHOOK_URL: ${{ secrets.TEAMS_WEBHOOK_URL }}
+        SCENARIOS_PASSED: ${{ env.SCENARIOS_PASSED }}
+        SCENARIOS_FAILED: ${{ env.SCENARIOS_FAILED }}
+        ARTIFACT_URL: ${{ env.ARTIFACT_URL }}
+        BRANCH_NAME: ${{ env.BRANCH_NAME }}
+      run: |
+        curl -H "Content-Type: application/json" -d "{
+        \"@type\": \"MessageCard\",
+        \"@context\": \"http://schema.org/extensions\",
+        \"summary\": \"Playwright Test Results TDD\",
+        \"themeColor\": \"0076D7\",
+        \"title\": \"Playwright Test Results TDD\",
+        \"sections\": [{
+            \"activityTitle\": \"Branch: **$BRANCH_NAME**\",
+            \"facts\": [
+                {\"name\": \"Passed:\", \"value\": \"<span style='color:green;'>$SCENARIOS_PASSED</span>\"},
+                {\"name\": \"Failed:\", \"value\": \"<span style='color:red;'>$SCENARIOS_FAILED</span>\"},
+                {\"name\": \"Artifact:\", \"value\": \"[Download]($ARTIFACT_URL)\"}
+            ],
+            \"markdown\": true
+        }],
+        \"potentialAction\": [{
+            \"@type\": \"OpenUri\",
+            \"name\": \"View Workflow Run\",
+            \"targets\": [
+                {\"os\": \"default\", \"uri\": \"${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}
+            ]
+        }],
+        \"text\": \"Attention: @everyone\"
+        }" $TEAMS_WEBHOOK_URL
