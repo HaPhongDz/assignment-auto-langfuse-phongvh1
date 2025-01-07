@@ -80,24 +80,23 @@ jobs:
         curl -H "Content-Type: application/json" -d "{
         \"@type\": \"MessageCard\",
         \"@context\": \"http://schema.org/extensions\",
-        \"summary\": \"Playwright Test Results TDD\",
+        \"summary\": \"🎉 Playwright Test Results - Langfuse Project\",
         \"themeColor\": \"0076D7\",
-        \"title\": \"Playwright Test Results TDD\",
+        \"title\": \"🎉 Playwright Test Results - Langfuse Project\",
         \"sections\": [{
             \"activityTitle\": \"Branch: **$BRANCH_NAME**\",
             \"facts\": [
-                {\"name\": \"Passed:\", \"value\": \"<span style='color:green;'>$SCENARIOS_PASSED</span>\"},
-                {\"name\": \"Failed:\", \"value\": \"<span style='color:red;'>$SCENARIOS_FAILED</span>\"},
-                {\"name\": \"Artifact:\", \"value\": \"[Download]($ARTIFACT_URL)\"}
+                {\"name\": \"✅ Passed:\", \"value\": \"<span style='color:green;'>$SCENARIOS_PASSED</span>\"},
+                {\"name\": \"❌ Failed:\", \"value\": \"<span style='color:red;'>$SCENARIOS_FAILED</span>\"},
+                {\"name\": \"📦 Artifact:\", \"value\": \"[Download]($ARTIFACT_URL)\"}
             ],
             \"markdown\": true
         }],
         \"potentialAction\": [{
             \"@type\": \"OpenUri\",
-            \"name\": \"View Workflow Run\",
+            \"name\": \"🔍 View Workflow Run\",
             \"targets\": [
                 {\"os\": \"default\", \"uri\": \"${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}\"}
             ]
-        }],
-        \"text\": \"Attention: @everyone\"
+        }]
         }" $TEAMS_WEBHOOK_URL
