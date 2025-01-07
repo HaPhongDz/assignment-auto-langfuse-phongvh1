@@ -1,0 +1,29 @@
+{
+    "timeFilterOptions": [
+      "5 min",
+      "30 min",
+      "1 hour",
+      "3 hours",
+      "24 hours",
+      "7 days",
+      "1 month",
+      "3 months",
+      "1 year"
+    ],
+    "filterOperatiorOptionsforTraceName" : [
+      "any of",
+      "none of"
+    ],
+    "filterOperatiorOptionsforTags" : [
+      "any of",
+      "none of",
+      "all of"
+    ],
+    "filterTypeOptions" : [
+      "Trace Name",
+      "Tags",
+      "User",
+      "Release",
+      "Version"
+    ]
+  }
