@@ -1,6 +1,6 @@
 import { Locator, Page, expect } from '@playwright/test';
 import { DashboardPage } from '../pageObjects/Dashboard/DashboardPage';
-import logger from '../utils/Logger';
+import {actionLogger as logger} from '../utils/Logger';
 import { URLS } from '../../config/config';
 import { compareScreenshots } from '../../src/utils/ImageComparison';
 

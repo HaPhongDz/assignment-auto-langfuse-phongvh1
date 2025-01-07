@@ -1,6 +1,5 @@
 import { Page, Locator, expect } from '@playwright/test';
 import { BasePage } from '../BasePage';
-import logger from '../../utils/Logger';
 
 export class DashboardPage extends BasePage {
     // Define Locators

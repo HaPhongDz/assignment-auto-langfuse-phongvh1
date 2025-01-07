@@ -7,17 +7,45 @@ const logFormat = format.combine(
     format.printf((info) => `${info.timestamp} [${info.level.toUpperCase()}]: ${info.message}`)
 );
 
-// Create logger instance
-const logger = createLogger({
-    level: 'info', 
-    format: logFormat,
+// Create step logger
+const stepLogger = createLogger({
+    level: 'info',
+    format: format.combine(
+        format.label({ label: 'STEP' }),
+        logFormat
+    ),
     transports: [
-        // WWrite console log
-        new transports.Console(),
-        // WWrite log to log file
+        new transports.Console({
+            format: format.combine(
+                format.colorize(),
+                format.label({ label: 'STEP' }),
+                format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
+                format.printf((info) => `${info.timestamp} [${info.label}] [${info.level.toUpperCase()}]: ${info.message}`)
+            )
+        }),
         new transports.File({ filename: path.join(__dirname, '../logs/test.log') }),
     ],
 });
 
-// Export log
-export default logger;
+// Create action logger
+const actionLogger = createLogger({
+    level: 'info',
+    format: format.combine(
+        format.label({ label: 'ACTION' }),
+        logFormat
+    ),
+    transports: [
+        new transports.Console({
+            format: format.combine(
+                format.colorize(),
+                format.label({ label: 'ACTION' }),
+                format.timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
+                format.printf((info) => `${info.timestamp} [${info.label}] [${info.level.toUpperCase()}]: ${info.message}`)
+            )
+        }),
+        new transports.File({ filename: path.join(__dirname, '../logs/test.log') }),
+    ],
+});
+
+// Export loggers
+export { stepLogger, actionLogger };

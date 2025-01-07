@@ -1,6 +1,6 @@
 import { Page } from '@playwright/test';
 import { LoginPage } from '../pageObjects/LoginPage/LoginPage';
-import logger from '../utils/Logger';
+import {actionLogger as logger} from '../utils/Logger';
 import { URLS } from '../../config/config';
 
 export class LoginPageAction {

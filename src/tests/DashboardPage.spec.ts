@@ -2,7 +2,7 @@ import { DashboardPageAction } from '../actions/DashboardPageAction';
 import { test, expect } from '../fixtures/testsetup.fixture';
 import { DashboardPage } from '../pageObjects/Dashboard/DashboardPage';
 import data  from '../test-data/time-filter-combobox-options.json';
-import logger from '../utils/Logger';
+import {stepLogger as logger} from '../utils/Logger';
 import {COLOR} from '../../config/config'
 
 test('TC_DTRP_001: Verify that the DateTime Range Picker displays the correct default label and values', async ({ loggedInPage }) => {
@@ -10,15 +10,18 @@ test('TC_DTRP_001: Verify that the DateTime Range Picker displays the correct de
     const dashboardPageAction = new DashboardPageAction(loggedInPage);
 
     // Step 1: Navigate to the dashboard page
+    logger.info('Step 1: Navigate to the dashboard page');
     await dashboardPageAction.navigateToDashboard();
 
     // Step 2: Observe the DateTime Range Picker field
+    logger.info('Step 2: Observe the DateTime Range Picker field');
     const now = new Date();
     const oneDayAgo = new Date(now.getTime() - 24 * 60 * 60 * 1000);
 
-    const expectedLabel = `${dashboardPageAction.formatDateTime(oneDayAgo,'MMDDYY:HH:MM')} - ${dashboardPageAction.formatDateTime(now,'MMDDYY:HH:MM')}`;
+    const expectedLabel = `${dashboardPageAction.formatDateTime(oneDayAgo, 'MMDDYY:HH:MM')} - ${dashboardPageAction.formatDateTime(now, 'MMDDYY:HH:MM')}`;
 
     // Step 3: Verify the label displays the current date and time in the expected format
+    logger.info('Step 3: Verify the label displays the current date and time in the expected format');
     await dashboardPageAction.verifyDefaultDateTimeRangePicker(expectedLabel);
 
     logger.info('Test completed: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values');
@@ -29,12 +32,15 @@ test('TC_DTRP_002: Verify that clicking on the DateTime Range Picker opens the d
     const dashboardPageAction = new DashboardPageAction(loggedInPage);
 
     // Step 1: Navigate to the dashboard page
+    logger.info('Step 1: Navigate to the dashboard page');
     await dashboardPageAction.navigateToDashboard();
 
     // Step 2: Click on the DateTime Range Picker field
+    logger.info('Step 2: Click on the DateTime Range Picker field');
     await dashboardPageAction.openDateTimeRangePickerDialog();
 
-    // Step 3: Verify the dialog displays the correct headers, date pickers, and time pickers
+    // Step 3: Verify the dialog headers and pickers
+    logger.info('Step 3: Verify the dialog headers and pickers');
     await dashboardPageAction.verifyDateTimeRangePickerDialog();
 
     logger.info('Test completed: TC_DTRP_002 - Verify that clicking on the DateTime Range Picker opens the dialog with correct headers and pickers');

@@ -1,5 +1,5 @@
 import { Page, Locator, expect } from '@playwright/test';
-import logger from '../utils/Logger';
+import {actionLogger as logger} from '../utils/Logger';
 
 export class BasePage {
     protected page: Page;
