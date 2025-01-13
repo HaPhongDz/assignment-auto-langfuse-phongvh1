@@ -1,6 +1,7 @@
 import { Locator, Page, expect } from '@playwright/test';
 import { DashboardPage } from '../pageObjects/Dashboard/DashboardPage';
 import {actionLogger as logger} from '../utils/Logger';
+import { lib } from '../utils/lib'
 import { URLS } from '../../config/config';
 import { compareScreenshots } from '../../src/utils/ImageComparison';
 
@@ -35,39 +36,7 @@ export class DashboardPageAction {
         logger.info('Opening DateTime Range Picker dialog');
         await this.dashboardPage.dateTimeRangePicker.click();
     }
-
-    // Format date time
-    formatDateTime(date: Date, formatType: 'MMDDYYYY:HH:MM' | 'MMDDYYYY' | 'MMYYYY' | 'MMDDYY:HH:MM' = 'MMDDYYYY:HH:MM', fullMonth: boolean = false): string {
-        const monthsShort = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
-        const monthsFull = ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
-        const month = fullMonth ? monthsFull[date.getMonth()] : monthsShort[date.getMonth()];
-        const day = date.getDate().toString().padStart(2, '0');
-        const year = date.getFullYear();
-        const shortYear = year.toString().slice(-2);
-        const hours = date.getHours().toString().padStart(2, '0');
-        const minutes = date.getMinutes().toString().padStart(2, '0');
-        
-        switch (formatType) {
-            case 'MMDDYYYY:HH:MM':
-                return `${month} ${day}, ${year} : ${hours}:${minutes}`;
-            case 'MMDDYYYY':
-                return `${month} ${day}, ${year}`;
-            case 'MMYYYY':
-                return `${month} ${year}`;
-            case 'MMDDYY:HH:MM':
-                return `${month} ${day}, ${shortYear} : ${hours}:${minutes}`;
-            default:
-                return `${month} ${day}, ${year} : ${hours}:${minutes}`;
-        }
-    }
-
-    // Convert 24-hour format to 12-hour format
-    convertTo12HourFormat(hours: number): string {
-        const period = hours >= 12 ? 'PM' : 'AM';
-        const hour = hours % 12 || 12; // Convert 0 to 12 for 12 AM
-        return `${hour} ${period}`;
-    }
-
+       
     async verifyDateTimeRangePickerDialog() {
         logger.info('Verifying DateTime Range Picker dialog headers and pickers');
 
@@ -75,8 +44,8 @@ export class DashboardPageAction {
         const nextMonth = new Date(now.getFullYear(), now.getMonth() + 1, 1);
         const yesterday = new Date(now.getTime() - 24 * 60 * 60 * 1000);
 
-        const expectedHeaderLeft = `${this.formatDateTime(now, 'MMYYYY', true)}`;
-        const expectedHeaderRight = `${this.formatDateTime(nextMonth, 'MMYYYY', true)}`;
+        const expectedHeaderLeft = `${lib.formatDateTime(now, 'MMYYYY', true)}`;
+        const expectedHeaderRight = `${lib.formatDateTime(nextMonth, 'MMYYYY', true)}`;
 
         //Get the actual header values for left and right
         const actualHeaderLeft = await this.dashboardPage.dateTimeDialogHeaderLeft.textContent();
@@ -111,7 +80,7 @@ export class DashboardPageAction {
                 ampm: (await this.dashboardPage.getTimeRangePickerAMPM(picker).textContent())?.trim()
             };
     
-            const expectedHour = this.convertTo12HourFormat(time.getHours());
+            const expectedHour = lib.convertTo12HourFormat(time.getHours());
             const [expectedHourValue, expectedAMPM] = expectedHour.split(' ');
             const expectedMinute = time.getMinutes().toString().padStart(2, '0');
             const expectedSecond = time.getSeconds().toString().padStart(2, '0');
@@ -136,7 +105,7 @@ export class DashboardPageAction {
                 ampm: (await dashBoardPage.getTimeRangePickerAMPM(picker).textContent())?.trim()
             };
     
-            const expectedHour = this.convertTo12HourFormat(time.getHours());
+            const expectedHour = lib.convertTo12HourFormat(time.getHours());
             const [expectedHourValue, expectedAMPM] = expectedHour.split(' ');
             const expectedMinute = time.getMinutes().toString().padStart(2, '0');
             const expectedSecond = time.getSeconds().toString().padStart(2, '0');

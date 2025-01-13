@@ -2009,3 +2009,14 @@
 2025-01-08 00:04:08 [INFO]: Get label of filter builder by line number
 2025-01-08 00:04:08 [INFO]: Get label of filter builder by line number
 2025-01-08 00:04:08 [INFO]: Test completed: TC_Filter_007 - Verify that clicking "Add filter" adds a new row to the dialog
+2025-01-13 07:42:55 [INFO]: Navigating to Login Page
+2025-01-13 07:43:01 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2025-01-13 07:43:36 [INFO]: Navigating to Login Page
+2025-01-13 07:43:42 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values
+2025-01-13 07:48:50 [INFO]: Navigating to Login Page
+2025-01-13 07:49:02 [INFO]: Navigating to the dashboard page
+2025-01-13 07:49:04 [INFO]: Navigating to Dashboard Page
+2025-01-13 07:55:09 [INFO]: Navigating to Login Page
+2025-01-13 07:55:18 [INFO]: Navigating to the dashboard page
+2025-01-13 07:55:20 [INFO]: Navigating to Dashboard Page
+2025-01-13 07:55:21 [INFO]: Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values

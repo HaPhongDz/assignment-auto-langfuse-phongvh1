@@ -1,27 +1,28 @@
-import { test as base, Page } from '@playwright/test';
+import { test as base, Page, BrowserContext } from '@playwright/test';
 import credentials from '../test-data/credentials.json';
 import { LoginPageAction } from '../actions/LoginPageAction';
+import { DashboardPageAction } from '../actions/DashboardPageAction';
 import * as fs from 'fs';
+import { stepLogger as logger } from '../utils/Logger';
 
 type MyFixtures = {
     loggedInPage: Page;
+    dashboardPageAction: DashboardPageAction;
+    context: BrowserContext;
 };
 
 export const test = base.extend<MyFixtures>({
-    loggedInPage: async ({ browser }, use, testInfo) => {
+    context: async ({ browser }, use, testInfo) => {
         const storageStatePath = 'auth/storageState.json';
         const forceLogin = testInfo.project.metadata.forceLogin || false;
-        
+        let context: BrowserContext;
+
         if (fs.existsSync(storageStatePath) && !forceLogin) {
             // Create a new browser context with the storage state
-            const context = await browser.newContext({ storageState: storageStatePath });
-            // Create a new page within the context
-            const page = await context.newPage();
-            await use(page);
-        }
-        else {
+            context = await browser.newContext({ storageState: storageStatePath });
+        } else {
             // Create a new browser context
-            const context = await browser.newContext();
+            context = await browser.newContext();
             // Create a new page within the context
             const page = await context.newPage();
 
@@ -33,10 +34,25 @@ export const test = base.extend<MyFixtures>({
 
             // Save storage state to file
             await context.storageState({ path: storageStatePath });
-
-            await use(page);
         }
 
+        await use(context);
+
+        // Close the browser context after use
+        await context.close();
+    },
+
+    loggedInPage: async ({ context }, use) => {
+        // Create a new page within the context
+        const page = await context.newPage();
+        await use(page);
+    },
+
+    dashboardPageAction: async ({ loggedInPage }, use) => {
+        const dashboardPageAction = new DashboardPageAction(loggedInPage);
+        logger.info('Navigating to the dashboard page');
+        await dashboardPageAction.navigateToDashboard();
+        await use(dashboardPageAction);
     },
 });
 

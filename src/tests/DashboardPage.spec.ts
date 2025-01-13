@@ -4,10 +4,13 @@ import { DashboardPage } from '../pageObjects/Dashboard/DashboardPage';
 import data  from '../test-data/time-filter-combobox-options.json';
 import {stepLogger as logger} from '../utils/Logger';
 import {COLOR} from '../../config/config'
+import { lib } from '../utils/lib'
 
-test('TC_DTRP_001: Verify that the DateTime Range Picker displays the correct default label and values', async ({ loggedInPage }) => {
+test('TC_DTRP_001: Verify that the DateTime Range Picker displays the correct default label and values', async ({ dashboardPageAction }) => {
     logger.info('Starting test: TC_DTRP_001 - Verify that the DateTime Range Picker displays the correct default label and values');
-    const dashboardPageAction = new DashboardPageAction(loggedInPage);
+    //const dashboardPageAction = new DashboardPageAction(loggedInPage);
+
+    //const db = new DashboardPage(dashboardPageAction.page);
 
     // Step 1: Navigate to the dashboard page
     logger.info('Step 1: Navigate to the dashboard page');
@@ -18,7 +21,7 @@ test('TC_DTRP_001: Verify that the DateTime Range Picker displays the correct de
     const now = new Date();
     const oneDayAgo = new Date(now.getTime() - 24 * 60 * 60 * 1000);
 
-    const expectedLabel = `${dashboardPageAction.formatDateTime(oneDayAgo, 'MMDDYY:HH:MM')} - ${dashboardPageAction.formatDateTime(now, 'MMDDYY:HH:MM')}`;
+    const expectedLabel = `${lib.formatDateTime(oneDayAgo, 'MMDDYY:HH:MM')} - ${lib.formatDateTime(now, 'MMDDYY:HH:MM')}`;
 
     // Step 3: Verify the label displays the current date and time in the expected format
     logger.info('Step 3: Verify the label displays the current date and time in the expected format');
@@ -65,7 +68,7 @@ test('TC_DTRP_003: Verify the behavior when "Today" is selected', async ({ logge
     // Step 4: Observe the highlights and label of the DateTime Range Picker field
     dashboardPageAction.validateBackgroundColor(todayButton, 'rgb(15, 23, 42)');
 
-    const expectedLabel = dashboardPageAction.formatDateTime(today, 'MMDDYYYY', false);
+    const expectedLabel = lib.formatDateTime(today, 'MMDDYYYY', false);
     await dashboardPageAction.verifyTimeRangePicker(expectedLabel); // Verify the label changes to today's date
 
     // Step 5: Verify both Start Time and End Time reset to `12:00:00AMGMT+7`
@@ -196,7 +199,7 @@ test('TC_DTRP_009: Verify the displayed DateTime range when "5 min" is selected'
     // Step 4: Observe the updated value of the DateTime range picker field    
     const now = new Date();
     const fiveMinutesAgo = new Date(now.getTime() - 5 * 60 * 1000);
-    const expectedLabel = `${dashboardPageAction.formatDateTime(fiveMinutesAgo,'MMDDYY:HH:MM')} - ${dashboardPageAction.formatDateTime(now,'MMDDYY:HH:MM')}`;
+    const expectedLabel = `${lib.formatDateTime(fiveMinutesAgo,'MMDDYY:HH:MM')} - ${lib.formatDateTime(now,'MMDDYY:HH:MM')}`;
     await dashboardPageAction.verifyDefaultDateTimeRangePicker(expectedLabel);
 
     logger.info('Test completed: TC_DTRP_009 - Verify the displayed DateTime range when "5 min" is selected');
